@@ -1,4 +1,3 @@
-// Artem Tagintsev,  Dots
 // This class makes a main for the Dots game, initializes the game components and handles the majority of the user input like detecting if and when start/ restart
 // button is clicked and also getting the user names and error checking for empty names or same initials after if grabs the first initial of the names of players.
 // Methods included in this class are launching the application, initializing the frame, updating player names and information, starting the game, and restarting the game. 
