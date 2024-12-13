@@ -1,4 +1,3 @@
-// Artem Tagintsev, Dots
 // This class represents the individual boxes in the grid, keeps track of which sides have been drawn, and which player has completed a box
 public class Boxes {
 	public boolean top; // Indicate if top of box has been drawn
