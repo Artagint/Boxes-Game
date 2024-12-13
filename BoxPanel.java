@@ -1,4 +1,3 @@
-// Artem Tagintsev, Dots
 // This class handles the logic of the game which includes initializing the grid of ovals to represent dots, initialized the 2D array of boxes, drawing lines
 // between the respective dots where user clicked using coordinate arithmetic, and after each click update the board, scores of players, and checking if end
 // of game has been reached by every box being filled and declaring who the winner is...or if it's a tie. Also checks for respective errors in the gameplay and
